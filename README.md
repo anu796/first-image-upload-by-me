@@ -1,1 +1,1 @@
-# first-image-upload-by-me
+"C:\Users\ASUS\Downloads\welcome.jpg"
